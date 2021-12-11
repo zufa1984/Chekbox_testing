@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Chekbox testing</string>
+    <string name="eskishahar_food">Eskishahar food</string>
+    <string name="lavash">lavash</string>
+    <string name="shaurma">shaurma</string>
+    <string name="buyurtma">buyurtma berish</string>
+    <string name="coca_cola">coca-cola</string>
+</resources>
